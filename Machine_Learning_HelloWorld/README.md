@@ -1,0 +1,1 @@
+In this first notebook i've learned how to import pandas library and how to use it to read data from a dataframe in csv downloaded from kagle, learned about the main methods and functions of pandas and how to use them to analize our data, i've also had the chance to use and learn about some of jupyter's most important shortcuts.
